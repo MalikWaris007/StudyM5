@@ -1,0 +1,143 @@
+* {
+  padding: 0px;
+
+  box-sizing: border-box;
+}
+.main-div {
+  background-image: url(/media/image/img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(90%);
+}
+.background-color{
+    background-color: #1818184b;
+}
+.nav-bar1 {
+  background-color: rgba(0, 0, 0, 0.144);
+  width: 100%;
+  display: flex;
+  gap: 380px;
+  color: white;
+}
+.nav-bar2 {
+  display: flex;
+  gap: 50px;
+  margin-top: 16px;
+}
+.anker {
+  text-decoration: none;
+  color: white;
+}
+
+.heading-1 {
+  font-size: 100px;
+  text-align: start;
+  margin-top: -16px;
+  padding-left: 40px;
+  color: #65a0c2;
+  font-weight: 100;
+}
+.para-1 {
+  padding-left: 40px;
+  font-size: 20px;
+  color: white;
+}
+.buttons {
+  padding-top: 20px;
+}
+.button-1 {
+  padding: 20px;
+  background-color: #65a0c2;
+  margin-left: 40px;
+  border: none;
+  border-radius: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 50px;
+  text-decoration: none;
+  color: white;
+}
+.button-2 {
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: rgba(0, 0, 0, 0.041);
+  margin-left: 20px;
+  border: 2px solid white;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+}
+.footer-1 {
+  padding-left: 50px;
+  padding-top: 140px;
+  padding-right: 150px;
+  color: white;
+}
+
+.line-1 {
+  width: 170px;
+  color: white;
+  margin-bottom: -16px;
+}
+.footer-1 {
+  display: flex;
+  gap: 400px;
+}
+
+.main-div2 {
+  background-color: #181818;
+  width: 100%;
+  color: white;
+  margin-top: -30px;
+  height: 500px;
+}
+
+.card {
+  display: flex;
+  padding-left: 90px;
+  gap: 20px;
+  padding-right: 90px;
+  padding-top: 30px;
+}
+.card1,
+.card2,
+.card3,
+.card4 {
+  background-color: #24282b;
+  text-align: center;
+  height: 290px;
+}
+.heading-2 {
+  padding-left: 50px;
+  font-size: 45px;
+  padding-top: 40px;
+}
+.card-para {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.main-div3 {
+  background-image: url(/media/image/d63f7a18-20fb-41d8-9a1b-1676755b9bbf.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  height: 800px;
+  width: 100%;
+}
+.last-section {
+  padding-left: 260px;
+  padding-right: 260px;
+  padding-top: 50px;
+}
+.last-div-card1,
+.last-div-card2,
+.last-div-card3,
+.last-div-card4 {
+  display: flex;
+  gap: 300px;
+}
+.last-div-card1 {
+  padding-top: 40px;
+}
